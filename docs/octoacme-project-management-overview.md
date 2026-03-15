@@ -17,8 +17,12 @@ Applies to all cross-functional projects that deliver product features, services
 - Project Manager (PM): coordinates delivery, schedules, risk, communications.
 - Product Manager (PdM): defines outcomes, prioritizes backlog, and measures success.
 - Developers: implement features, collaborate on design and testability.
-- QA/Testing: validate quality and acceptance criteria.
-- Stakeholders: provide inputs and approvals.
+- QA Lead: owns test strategy, test execution, and release readiness sign-off.
+- DevOps Engineer: maintains CI/CD pipelines, deployment tooling, and infrastructure.
+- UI/UX Designer: defines interface and experience requirements; produces design specs.
+- Stakeholder Representative: voices stakeholder interests and approves key deliverables.
+
+See [`octoacme-roles-and-personas.md`](octoacme-roles-and-personas.md) for full role descriptions and interaction points, and [`octoacme-role-interactions-and-handoffs.md`](octoacme-role-interactions-and-handoffs.md) for a RACI-lite matrix, key handoff points, and Definition of Ready/Done checklists.
 
 ## Key Artifacts
 - Project Charter / One-pager
